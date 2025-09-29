@@ -28,7 +28,7 @@ This project combines **document parsing, vector databases, and a conversational
 - **File Handling**: Python file I/O for uploaded documents
 
 ---
-
+streamlit run app.py
 ## **Installation**
 1. **Clone the repository:**
    ```bash
